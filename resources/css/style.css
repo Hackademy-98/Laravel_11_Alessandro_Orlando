@@ -1,0 +1,8 @@
+.header{
+    background-image: url(public/media/sf_commerce.jpg) ;
+}
+
+.backdrop-blur{
+   background-color: rgba(0, 0, 0, 0.5); 
+   backdrop-filter: blur(10px);
+}
